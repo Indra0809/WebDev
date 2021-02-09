@@ -1,0 +1,67 @@
+.facebook-body{
+    background: rgb(236, 236, 236);
+    font-family: Helvetica, sans-serif, Arial;
+    margin:0;
+}
+
+.facebook-nadpic {
+    position: absolute;
+    margin: 209px;
+    padding-top: 260px;
+    width:600px;
+    height: 100px;
+    font-size: 32px;
+    text-align: left;
+    margin-top: -20px;
+    color: black;
+}
+h1{
+    color:rgb(67, 106, 212);
+}
+
+
+.facebook-form {
+    position: absolute;
+    margin-left: 800px;
+    margin-top:135px;
+    background: rgb(245, 245, 245);
+    float: right;;
+}
+
+.facebook-contain {
+    font-size: 20px;
+    padding: 20px;
+    margin: 5px;
+    width: 332px;
+}
+
+
+.inp{
+    
+    width: 334px;
+    height: 66px;
+    border-radius: 3px;
+    color: darkgrey;
+    border: 1px solid lightgray;
+    font-size: 14px;
+
+}
+
+#facebook-button {
+    background-color: #1877f2;
+    color: white;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 21px;
+    margin-top: -10px;
+
+
+.facebook-forgot {
+    font-size: 13px;
+    text-align: center;
+    color: rgb(55, 106, 214);
+}
+
+#knopka{
+    background-color: yellowgreen;
+}
