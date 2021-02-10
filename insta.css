@@ -1,0 +1,32 @@
+.box{
+    margin-left:780px;
+    margin-top:80px;
+    margin-right:330px ;
+}
+
+.h1{
+    text-align: center;
+}
+
+vhod{
+
+}
+
+.input{
+    width: 334px;
+    height: 40px;
+    border-radius: 3px;
+    color: darkgrey;
+    border: 1px solid lightgray;
+    font-size: 14px;
+}
+
+#voiti-bt{
+    background-color: #1877f2;
+    color: white;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 21px;
+    margin-top: -10px;
+}
+
