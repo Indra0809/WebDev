@@ -32,7 +32,7 @@ function newTask() {
   document.getElementById("input").value = "";
 
   var box = document.createElement("box");
-  var text = document.createTextNode("nt");
+  var text = document.createTextNode("\u00D7");
   box.className = "close";
   box.appendChild(text);
   li.appendChild(box);
