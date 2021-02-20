@@ -3,7 +3,7 @@ var i;
 
 for (i = 0; i < listTasks.length; i++) {
   var box = document.createElement("box");
-  var txt = document.createTextNode("\u00D7");
+  var text = document.createTextNode("button");
   box.className = "close";
   box.appendChild(text);
   listTasks[i].appendChild(box);
@@ -32,7 +32,7 @@ function newTask() {
   document.getElementById("input").value = "";
 
   var box = document.createElement("box");
-  var text = document.createTextNode("\u00D7");
+  var text = document.createTextNode("nt");
   box.className = "close";
   box.appendChild(text);
   li.appendChild(box);
